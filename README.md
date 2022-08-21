@@ -1,5 +1,6 @@
 # İnseriton Sort Project
 [Patika.dev link](https://app.patika.dev/fsmarslan)
+
 [22,27,16,2,18,6]
 ## Yukarıdaki dizinin sort türüne göre aşamaları.
 ```
